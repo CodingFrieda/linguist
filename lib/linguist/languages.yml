@@ -1276,6 +1276,14 @@ Fantom:
   tm_scope: source.fan
   ace_mode: text
   language_id: 110
+Fetlang:
+  type: programming
+  color: "##FF69B4"
+  ace_mode: text
+  extensions:
+  - ".fet"
+  tm_scope: none
+  language_id: 430  
 Filebench WML:
   type: programming
   extensions:
